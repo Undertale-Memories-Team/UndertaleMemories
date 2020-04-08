@@ -2,6 +2,7 @@
 Official Repo for Undertale Memories Fangame Development! - DM RainbowKappa#1689 to help!
 
 https://gamejolt.com/games/UndertaleMemoriesFanGame/482668 - GAMEJOLT PAGE
+https://discord.gg/RRFQaDH - Discord!
 
 "Long ago, two races ruled over Earth:
 MAN AND MONSTERS.
